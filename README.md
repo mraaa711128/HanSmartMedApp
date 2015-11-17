@@ -12,6 +12,12 @@ The following scree shots are the main function of this app:
 3. Patient List & Search <br/>
 ![Patient List](https://github.com/mraaa711128/HanSmartMedApp/blob/master/Images/PatientList.png)
 4. Historical Diagnosis
+![Diagnosis](https://github.com/mraaa711128/HanSmartMedApp/blob/master/Images/Diagnosis.png)
 5. Lab Results
+![Lab Results](https://github.com/mraaa711128/HanSmartMedApp/blob/master/Images/LabResult.png)
 6. Ultrasound & Radiological Images and Report
+![Ultrasound](https://github.com/mraaa711128/HanSmartMedApp/blob/master/Images/Ultrasound.png)
+![Report](https://github.com/mraaa711128/HanSmartMedApp/blob/master/Images/Report.png)
 7. Image Editor with Britness & Contrast
+![Image](https://github.com/mraaa711128/HanSmartMedApp/blob/master/Images/Image.png)
+![Editor](https://github.com/mraaa711128/HanSmartMedApp/blob/master/Images/ImageEditor.png)

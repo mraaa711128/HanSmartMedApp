@@ -9,7 +9,8 @@ The following scree shots are the main function of this app:
 ![Login Page](https://github.com/mraaa711128/HanSmartMedApp/blob/master/Images/Login.png)
 2. Main page and Function selection - Upper section contains current patient's basic information; Lower section lists all the functions this app can do ! <br/>
 ![Main Page](https://github.com/mraaa711128/HanSmartMedApp/blob/master/Images/Main.png)
-3. Patient List & Search
+3. Patient List & Search <br/>
+![Patient List](https://github.com/mraaa711128/HanSmartMedApp/blob/master/Images/PatientList.png)
 4. Historical Diagnosis
 5. Lab Results
 6. Ultrasound & Radiological Images and Report

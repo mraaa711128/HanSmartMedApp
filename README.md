@@ -6,7 +6,8 @@ This app is an in-house app which is exclusive to specific hospitals. App doesn'
 The following scree shots are the main function of this app:
 
 1. Start-up and Login page
-![Login Page](https://github.com/mraaa711128/HanSmartMedApp/blob/master/Images/Login.png =384x512)
+<!-- ![Login Page](https://github.com/mraaa711128/HanSmartMedApp/blob/master/Images/Login.png =384x512) -->
+<img src="https://github.com/mraaa711128/HanSmartMedApp/blob/master/Images/Login.png" style="width: 384px; height: 512px;">
 2. Main page and Function selection
 3. Patient List & Search
 4. Historical Diagnosis
